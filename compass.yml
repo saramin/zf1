@@ -1,0 +1,14 @@
+name: zf1
+id: ari:cloud:compass:fbd1859d-75f6-4abd-84f3-0050073f34ef:component/039537c6-f5ee-4079-8768-97bd5e53bb46/63be3e9c-e002-4d13-83e8-4331616b9f64
+description: This project reached its end-of-life on 2016-09-28. Contains conversion of ZF1 subversion repo to git, from version 15234 forward, and only containing master and release-1.12 branches and 1.12 tags.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:php
+  - source:github
+customFields: null
